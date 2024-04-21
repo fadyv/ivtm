@@ -1,0 +1,645 @@
+
+@media all and (min-width: 1024px)   {
+    .dropdown:hover .dropdown-menu {
+        display: block;
+    }
+    .course-main{
+        height: 204px;
+    }
+
+   .blogs-section .course-main {
+        height: 185px;
+    }
+
+    .form-image img{
+        height: 516px;
+    }
+
+    .courses-secion{
+        height: 120vh;
+    }
+
+    .certificate-item img{
+       height: 493px;
+    }
+    .major_courses .course-main {
+        height: 143px;
+    }
+
+   .blogs .p-text-b  {
+    height: 75px;
+   }
+    
+}
+
+@media all and (max-width: 991px) {
+    .course-detail{
+        width: 100% !important;
+    }
+}
+
+@media all and (min-width: 991px) and (max-width: 1200px)  {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 0.2rem;
+        padding-left: 0.2rem;
+        font-size: 13px;
+        
+    }
+
+    .course-detail{
+        width: 300px !important;
+    }
+    
+   
+}
+
+@media all and (min-width: 991px) and (max-width: 1100px)  {
+    .mt-res {
+    margin-top: 0px;
+    }
+}
+
+@media all and (min-width: 1200px) and (max-width: 1500px)   {
+    .container{
+        max-width: 1250px ; 
+    }
+}
+
+@media all and (min-width: 1515px)  and (max-width: 1706px)  {
+    .course-detail{
+        width: 426px !important;
+    }
+}
+
+
+@media all and (min-width: 1707px)  and (max-width: 2049px)  {
+    .course-detail{
+        width: 500px !important;
+    }
+    .first-nav {
+        top: -1px;
+    }
+}
+
+@media all and (min-width: 1822px)  and (max-width: 2050px)  {
+    .container{
+        max-width: 1577px ; 
+    }
+    
+    .courses-secion{
+        height: 100vh;
+    }
+
+    .team-box {
+        bottom: 13rem;
+        left: 41rem;
+    }
+
+    .courses-secion {
+        height: 82vh;
+    }
+}
+
+@media all and (min-width: 2050px)   and (max-width: 4090px)   {
+    .container{
+        max-width: 2344px ; 
+    }
+    
+    .courses-secion{
+        height: 100vh;
+    }
+
+    .team-box {
+        bottom: 38rem;
+        left: 62rem;
+    }
+
+    .courses-secion {
+        height: 59vh;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        font-size: 22px;
+    }
+
+    .hero-secion{
+        height: 120vh !important;
+    }
+
+   
+    
+}
+
+@media all and (min-width: 4098px)   and (max-width: 5200px)   {
+    .container{
+        max-width: 3344px ; 
+    }
+    .team-box {
+        bottom: 55rem;
+        left: 103rem;
+    }
+    .hero-secion{
+        height: 125vh !important;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+
+        font-size: 22px;
+    }
+    .courses-secion {
+        height: 42vh;
+    }
+}
+
+
+
+
+
+@media all and (max-width: 767px)   {
+    .first-nav a{
+        font-size: 15px;
+    }
+    .location-res{
+        text-align: end;
+    }
+    .mt-res{
+        margin-top: 10px;
+    }
+
+    .navbar {
+        top: 80px;  
+    }
+
+    .hero-secion {
+        margin-top: 176px;
+    }
+
+    .hero-title {
+        font-size: 28px;
+    }
+    .hero-text {
+        font-size: 21px;
+    }
+    .engi {
+        position: absolute;
+        top: 7rem;
+        left: 1rem;
+    }
+
+    .img-section{
+        margin-top: 20px;
+    }
+
+    .hero-secion  {
+        height: 64vh!important;
+    }
+
+    .wave-2 {
+        bottom: -89px;
+    }
+    .about-image{
+        overflow: hidden;
+    }
+    .star-big {
+        left: 3rem;
+        top: 10px;
+        width: 35px;
+    }
+    .waves{
+        display: none;
+    }
+    .title-header{
+        margin-top: 30px;
+    }
+    .shape-about {
+        left: 25px;
+    }
+    .nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+        font-size: 15px !important;
+        padding-top: 5px;
+        padding-right: 5px;
+    }
+    .tap-link .nav-link{
+        font-size: 15px !important;
+        padding-top: 5px;
+        padding-right: 5px;
+        margin-right: 0px;
+    }
+    .discount {
+        font-size: 16px;
+    
+    }
+    .price .p-text-b{
+        font-size: 16px;
+
+    }
+    .brder-red {
+        width: 68px;
+    }
+    .course-details span {
+        font-size: 9px;
+    
+    }
+
+    .tap-link {
+        padding-left: 5px;
+    }
+
+    .owl-prev {
+        width: 45px !important;
+        height: 45px !important;
+        right: -57px;
+    }
+    .owl-next{
+        width: 45px !important;
+        height: 45px !important;
+        left: -57px;
+    }
+    .degree-box {
+        margin-bottom: 15px;
+    }
+    .degree-box img{
+        height: auto;
+    }
+    .degree-title{
+        top: 47%
+    }
+
+    .degree-secion .up {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: 177px;
+    }
+    .degree-secion  .grude {
+        left: 0rem;
+        top: 1rem;
+        width: 92px;
+    }
+
+    .star2 {
+        right: 10rem;
+    }
+    .qm{
+        display: none;
+    }
+    .down_home{
+        display: none;
+    }
+
+    .opinions-section .owl-next {
+        left: 30% !important;
+        top: 105% !important;
+    }
+
+    .opinions-section .owl-prev{
+    
+        right: 30% !important;
+        top: 105% !important;
+     }
+
+     .circlies2 {
+        position: absolute;
+        bottom: 2rem;
+        right: 8px;
+    }
+
+    .star22 {
+        position: absolute;
+        left: 1rem;
+        top: 3rem;
+    }   
+    .blogs-title {
+        display: block !important;
+    }
+    .blogs-section .course-item {
+        margin-bottom: 10px;
+    }
+    .form-image{
+        display: none !important;
+    }
+    .contact-form{
+        margin-right: 0px !important;
+    }
+
+    .circliesform {
+        position: absolute;
+        top: 0rem;
+        left: 1px;
+        z-index: 1;
+    }
+    .piont-footer {
+        width: 50px ;
+        left: 1rem;
+        bottom: 18px;
+    }
+
+    .upperfooter-section .p-text-w {
+        font-size: 26px;
+    }
+    .upperfooter-section {
+        background-size: cover;
+    }
+
+    .star-footer {
+        right: 1rem;
+        top: 6px;
+        width: 47px;
+    }
+    .footer-data{
+        justify-content: start !important;
+        margin-top: 10px;
+    }
+
+    .footer-social{
+        align-items: end !important;
+    }
+
+    .footer-contact{
+        padding-right: 10px;
+    }
+
+    .social{
+        padding-top: 10px;
+        
+    }
+
+    .logo-name {
+        font-size: 16px;
+    }
+    .footer a {
+        font-size: 13px;
+    }
+
+    .footer .justify-content-between {
+        justify-content: start !important;
+    }
+
+    .search-section .topform {
+        width: 200px;
+    }
+
+    .circliesform_co {
+      width: 130px;
+    }
+
+    .search-section .p-text-header {
+        font-size: 20px;
+    }
+
+    
+    .certificate-detail li{
+        margin-bottom: 12px;
+    }
+
+    .certificate-detail ul {
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+
+    
+}
+
+@media all and (min-width: 767px) and (max-width:1024px)   {
+    .first-nav a{
+        font-size: 15px;
+    }
+    .location-res{
+        text-align: end;
+    }
+    .mt-res{
+        margin-top: 10px;
+    }
+
+    .navbar {
+        top: 80px;  
+    }
+    .hero-secion {
+        margin-top: 176px;
+    }
+
+    .hero-title {
+        font-size: 26px;
+    }
+    .hero-text {
+        font-size: 20px;
+    }
+
+    .hero-secion {
+        height: auto !important;
+    }
+
+    .wave-2 {
+        bottom: -209px;
+    }
+    .team-box{
+        display: none;
+    }
+
+    .star {
+        right: 25rem;
+        bottom: 16rem;
+    }
+    .engi {
+        position: absolute;
+        top: 1rem;
+        left: 3rem;
+    }
+
+    .gradute {
+        top: 12rem;
+        right: 21rem;
+    }
+    .wave-1 {
+        bottom: -31px;
+    }
+
+    .about-image{
+        overflow: hidden;
+    }
+
+    .star-big {
+        left: 3rem;
+        top: 33px;
+    }
+    
+    .about-image{
+        overflow: hidden;
+    }
+
+    .waves{
+        display: none;
+    }
+    .title-header{
+        margin-top: 30px;
+    }
+
+    .shape-about {
+        left: 13rem;
+    }
+
+    .circlies {
+        top: 0rem;
+        right: 71px;
+    }    
+    
+    .brder-red {
+        width: 50px;
+    }
+    .course-details span {
+        font-size: 9px;
+    
+    }
+    .discount {
+        font-size: 14px;
+    
+    }
+    .price .p-text-b{
+        font-size: 14px;
+
+    }
+    .degree-box {
+        margin-bottom: 15px;
+    }
+
+    .degree-box img{
+        height: auto;
+    }
+    .degree-title{
+        top: 55%
+    }
+    .degree-secion .up {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        width: 200px;
+    }
+    .degree-secion  .grude {
+        left: 0rem;
+        top: 1rem;
+        width: 120px;
+    }
+
+    .down_home {
+        width: 180px;
+    }
+    .blogs-section .p-text-b {
+        font-size: 25px;
+    }
+    .contact-form{
+        margin-right: 0px !important;
+    }
+
+    .form-image img{
+        width: 100% !important;
+    }
+    .contact-form input{
+        height: 40px;
+    }
+    .contact-form textarea{
+        max-height: 40px !important;
+        min-height: 40px !important;
+        padding-top: 5px !important;
+    }
+    
+    .piont-footer {
+        width: 70px;
+    }
+
+    .footer-data{
+        justify-content: start !important;
+        margin-top: 10px;
+    }
+
+    .footer-social{
+        align-items: end !important;
+    }
+
+    .footer-contact{
+        padding-right: 10px;
+    }
+
+    .social{
+        padding-top: 10px;
+        
+    }
+
+
+    .footer .justify-content-between {
+        justify-content: start !important;
+    }
+
+    
+    .center-res {
+        justify-content: center!important;
+    }
+    
+    .certificate-detail li{
+        margin-bottom: 8px;
+        font-size: 12px;
+    }
+
+    .certificate-detail ul {
+        margin-bottom: 0px;
+        margin-top: 0px;
+    }
+    
+    .certificates  .btn-defult {
+        font-size: 13px;
+    }
+    
+    .certificates .title-header {
+        margin-top: 0px;
+    }
+
+    .certificate-item img{
+        height: 278px;
+    }
+    
+}
+
+
+@media all and (max-width: 1024px)  {
+    .show-response{
+
+         display:block;    
+        
+        }
+        
+        .hidden-response  {
+         display:none!important;
+        }
+        .courses-secion {
+          background-size: cover;
+            
+        }
+        .first-nav {
+        top: -0.2px;
+        }   
+
+        .about-3 {
+            position: absolute;
+            left: 1rem;
+            bottom: 10px;
+            width: 144px;
+        }
+        .star224 , .arrowtwo  {
+            display: none;
+        }
+
+
+        .account-item{
+            margin-bottom: 55px;
+        }
+
+        .accountes  .p-text-header {
+            font-size: 26px;
+            margin-bottom: 70px !important;
+        }
+        
+        .majors .p-text-b {
+            font-size: 30px !important;
+            margin-bottom: 30px;
+        }
+    
+} 
